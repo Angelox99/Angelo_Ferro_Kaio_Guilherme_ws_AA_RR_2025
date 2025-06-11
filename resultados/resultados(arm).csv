@@ -1,0 +1,11 @@
+algoritmo,entrada,tamanho_entrada,num_execucoes,tempo_execucao_medio_s,memoria_media_MB,memoria_maxima_media_MB,memoria_minima_media_MB,cpu_media_percent,processador
+hanoi,3,3,13,3e-06,0.0,0.0,0.0,0.0,arm
+hanoi,6,6,13,3e-06,0.0,0.0,0.0,0.0,arm
+hanoi,9,9,13,5e-06,0.0,0.0,0.0,0.0,arm
+hanoi,13,13,13,5.6e-05,0.0,0.0,0.0,0.0,arm
+hanoi,18,18,13,0.001655,0.0,0.0,0.0,0.0,arm
+hanoi,23,23,13,0.02933,0.0,0.0,0.0,0.0,arm
+hanoi,28,28,13,0.572672,0.981971,1.125,0.409856,98.989231,arm
+hanoi,33,33,13,18.340944,1.121475,1.125,0.508413,99.982872,arm
+hanoi,38,38,13,587.213557,1.04267,1.125,0.532452,99.99052,arm
+hanoi,41,41,13,4697.243496,0.776682,1.125,0.292067,99.994503,arm

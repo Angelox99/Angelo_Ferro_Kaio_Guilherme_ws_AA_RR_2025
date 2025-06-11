@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.log
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# ingoras os algoritmo
+hanoi
