@@ -17,7 +17,7 @@ benchmark = Benchmark(
 # Coletar Resultados
 resultados = []
 os.makedirs("./resultados", exist_ok=True)
-csv_path = "./resultados/resultados(arm).csv"
+csv_path = "./resultados/resultados2.csv"
 
 # Calcular total de iterações
 total = len(algoritmos) * len(entradas)
